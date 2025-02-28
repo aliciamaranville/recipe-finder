@@ -1,4 +1,4 @@
-# recipe_app
+# Food Finder Recipe App
 
 A new Flutter project.
 
